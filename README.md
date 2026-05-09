@@ -8,20 +8,15 @@ Build out the content for this agent instructions file for this proiect. This is
 
 
 # Best Propmt to learn 
-ROLE 
-- i am senior java architect with 12 years experience
+ROLE: i am senior java architect with 12 years experience
   
-TASK
-- explain kafka to me like a pro architect 
+TASK: explain kafka to me like a pro architect 
 
-CONTEXT
-- keep it architectural sound with all important terminologies explained properly 
+CONTEXT: keep it architectural sound with all important terminologies explained properly 
 
-CONSTRAINTS
-- keep it short technical and not boring not paragraph styled 
+CONSTRAINTS: keep it short technical and not boring not paragraph styled 
 
-FORMAT
-- make it more bullets and heading styles with tables and intresting
+FORMAT: make it more bullets and heading styles with tables and intresting
 
 # A professional Al prompt contains:
 
@@ -44,3 +39,35 @@ Keep answer concise, avoid theory, give production examples
 
 5. Output Format
 Give response in bullet points with code snippets
+
+--------------------------------
+
+Act as a Principal Java Architect.
+
+Context:
+Enterprise e-commerce platform with 10M users and 500K concurrent requests.
+
+Requirements:
+: Spring Boot microservices
+: Kafka event streaming
+: Redis distributed caching
+: Kubernetes deployment
+: Zero downtime
+: API Gateway
+: OAuth2 security
+: Distributed tracing
+
+Constraints:
+: Low latency
+: Fault tolerant
+: Horizontally scalable
+: Thread-safe
+: Cloud-native
+
+Output:
+: Architecture explanation
+: Component interaction
+: Deployment strategy
+: Failure handling
+: Optimized Java code
+: Monitoring approach

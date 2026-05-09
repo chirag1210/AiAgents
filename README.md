@@ -23,3 +23,25 @@ Build out the content for this agent instructions file for this proiect. This is
 
 # FORMAT
 - make it more bullets and heading styles with tables and intresting
+
+# A professional Al prompt contains:
+
+Instructions → what the Al should do Context → environment/details Constraints → rules & limitations Examples → expected response pattern Output format → structure of the result
+
+That's why advanced Al systems behave consistently in production.
+
+Anatomy of a Professional Prompt
+1. Role
+You are a senior Java backend engineer...
+
+2. Task
+Explain circuit breaker pattern in microservices
+
+3. Context
+System uses Spring Boot, Kubernetes, high traffic APIs
+
+4. Constraints
+Keep answer concise, avoid theory, give production examples
+
+5. Output Format
+Give response in bullet points with code snippets

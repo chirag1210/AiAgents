@@ -2,24 +2,24 @@
 AiAgents
 
 
-#Step 1: this will creates .md files 
+# Step 1: this will creates .md files 
 
 Build out the content for this agent instructions file for this proiect. This is an instructions file specifically for LLM's to adhere to the coding standards for this project. agent instructions will be separated out into separate .md markdown files located in the /docs directory.
 
 
-step 2: best propmt to learn 
+# Best Propmt to learn 
 
-#ROLE 
+# ROLE 
 - i am senior java architect with 12 years experience
 - 
-#TASK
+# TASK
 - explain kafka to me like a pro architect 
 
-#CONTEXT
+# CONTEXT
 - keep it architectural sound with all important terminologies explained properly 
 
-#CONSTRAINTS
+# CONSTRAINTS
 - keep it short technical and not boring not paragraph styled 
 
-#FORMAT
+# FORMAT
 - make it more bullets and heading styles with tables and intresting

@@ -79,6 +79,9 @@ Output:
 Act as a Senior Java Architect and teach me [TOPIC NAME] from beginner to advanced.
 Include: 1. Core concepts 2. Internal working 3. Real-world examples 4. Production use cases 5. Common interview questions 6. Performance considerations 7. Best practices 8. Common mistakes 9. Coding examples in Java 30. mini project idea 
 
+show: sequence digram explanation
+internal objest flow
+
 Explain in simple language first, then move to advanced concepts. 
 
 Example: Teach me Spring Boot from beginner to advanced.
